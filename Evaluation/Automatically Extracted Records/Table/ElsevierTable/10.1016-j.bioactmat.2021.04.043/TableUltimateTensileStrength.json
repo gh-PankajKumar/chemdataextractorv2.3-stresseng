@@ -1,0 +1,11 @@
+{
+"1": {"_id": 1, "raw_value": "35\u2013283", "raw_units": "(MPa)", "value": [35.0, 283.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Ultimate tensile strength", "compound": 1},
+"2": {"_id": 2, "raw_value": "1.5\u201338", "raw_units": "(MPa)", "value": [1.5, 38.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Ultimate tensile strength", "compound": 2},
+"3": {"_id": 3, "raw_value": "229 \u00b1 1", "raw_units": "(MPa)", "value": [229.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 1.0, "specifier": "Ultimate tensile strength", "compound": 3},
+"4": {"_id": 4, "raw_value": "245 \u00b1 8", "raw_units": "(MPa)", "value": [245.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 8.0, "specifier": "Ultimate tensile strength", "compound": 4},
+"5": {"_id": 5, "raw_value": "246 \u00b1 2", "raw_units": "(MPa)", "value": [246.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 2.0, "specifier": "Ultimate tensile strength", "compound": 5},
+"6": {"_id": 6, "raw_value": "268 \u00b1 6", "raw_units": "(MPa)", "value": [268.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 6.0, "specifier": "Ultimate tensile strength", "compound": 6},
+"7": {"_id": 7, "raw_value": "~280", "raw_units": "(MPa)", "value": [280.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Ultimate tensile strength", "compound": 7},
+"8": {"_id": 8, "raw_value": "278 \u00b1 5", "raw_units": "(MPa)", "value": [278.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 5.0, "specifier": "Ultimate tensile strength", "compound": 8},
+"9": {"_id": 9, "raw_value": "~249", "raw_units": "(MPa)", "value": [249.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Ultimate tensile strength", "compound": 9}
+}

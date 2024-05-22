@@ -1,0 +1,7 @@
+{
+"1": {"_id": 1, "raw_value": "1.69", "raw_units": "GPa", "value": [1.69], "units": "(10^9.0) * Pascal^(1.0)", "specifier": "E", "compound": 2},
+"2": {"_id": 2, "raw_value": "1.69", "raw_units": "GPa", "value": [1.69], "units": "(10^9.0) * Pascal^(1.0)", "specifier": "E", "compound": 3},
+"3": {"_id": 3, "raw_value": "1.5", "raw_units": "GPa", "value": [1.5], "units": "(10^9.0) * Pascal^(1.0)", "specifier": "E", "compound": 4},
+"4": {"_id": 4, "raw_value": "\u223c1.8", "raw_units": "GPa", "value": [1.8], "units": "(10^9.0) * Pascal^(1.0)", "specifier": "E", "compound": 5},
+"5": {"_id": 5, "raw_value": "1.88", "raw_units": "GPa", "value": [1.88], "units": "(10^9.0) * Pascal^(1.0)", "specifier": "E", "compound": 6}
+}

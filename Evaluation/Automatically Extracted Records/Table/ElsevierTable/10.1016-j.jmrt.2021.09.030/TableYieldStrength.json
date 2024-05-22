@@ -1,0 +1,4 @@
+{
+"1": {"_id": 1, "raw_value": "766 \u00b1 18", "raw_units": "(MPa)", "value": [766.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 18.0, "specifier": "Yield strength", "compound": 3},
+"2": {"_id": 2, "raw_value": "754 \u00b1 17", "raw_units": "(MPa)", "value": [754.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 17.0, "specifier": "Yield strength", "compound": 4}
+}

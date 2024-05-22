@@ -1,0 +1,15 @@
+{
+"1": {"_id": 1, "raw_value": "963", "raw_units": "(MPa)", "value": [963.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 14},
+"2": {"_id": 2, "raw_value": "892", "raw_units": "(MPa)", "value": [892.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 15},
+"3": {"_id": 3, "raw_value": "923", "raw_units": "(MPa)", "value": [923.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 16},
+"4": {"_id": 4, "raw_value": "907", "raw_units": "(MPa)", "value": [907.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 17},
+"5": {"_id": 5, "raw_value": "917", "raw_units": "(MPa)", "value": [917.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 18},
+"6": {"_id": 6, "raw_value": "901", "raw_units": "(MPa)", "value": [901.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 19},
+"7": {"_id": 7, "raw_value": "894", "raw_units": "(MPa)", "value": [894.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 20},
+"8": {"_id": 8, "raw_value": "871", "raw_units": "(MPa)", "value": [871.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 21},
+"9": {"_id": 9, "raw_value": "872", "raw_units": "(MPa)", "value": [872.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 22},
+"10": {"_id": 10, "raw_value": "868", "raw_units": "(MPa)", "value": [868.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 23},
+"11": {"_id": 11, "raw_value": "924", "raw_units": "(MPa)", "value": [924.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 24},
+"12": {"_id": 12, "raw_value": "922", "raw_units": "(MPa)", "value": [922.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 25},
+"13": {"_id": 13, "raw_value": "931", "raw_units": "(MPa)", "value": [931.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "YS", "compound": 26}
+}

@@ -1,0 +1,7 @@
+{
+"1": {"_id": 1, "raw_value": "317 \u00b1 2", "raw_units": "MPa", "value": [317.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 2.0, "specifier": "YS", "compound": 1},
+"2": {"_id": 2, "raw_value": "309 \u00b1 2", "raw_units": "MPa", "value": [309.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 2.0, "specifier": "YS", "compound": 2},
+"3": {"_id": 3, "raw_value": "309 \u00b1 2", "raw_units": "MPa", "value": [309.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 2.0, "specifier": "yield strength", "compound": 3},
+"4": {"_id": 4, "raw_value": "363 \u00b1 4", "raw_units": "MPa", "value": [363.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 4.0, "specifier": "yield strength", "compound": 4},
+"5": {"_id": 5, "raw_value": "317 \u00b1 2", "raw_units": "MPa", "value": [317.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 2.0, "specifier": "YS", "compound": 5}
+}

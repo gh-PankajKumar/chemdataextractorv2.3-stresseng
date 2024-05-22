@@ -1,0 +1,16 @@
+{
+"1": {"_id": 1, "raw_value": "1360", "raw_units": "(MPa)", "value": [1360.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 1},
+"2": {"_id": 2, "raw_value": "1154", "raw_units": "(MPa)", "value": [1154.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 2},
+"3": {"_id": 3, "raw_value": "854", "raw_units": "(MPa)", "value": [854.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 3},
+"4": {"_id": 4, "raw_value": "604", "raw_units": "(MPa)", "value": [604.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 4},
+"5": {"_id": 5, "raw_value": "465", "raw_units": "(MPa)", "value": [465.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 5},
+"6": {"_id": 6, "raw_value": "204", "raw_units": "(MPa)", "value": [204.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 6},
+"7": {"_id": 7, "raw_value": "103", "raw_units": "(MPa)", "value": [103.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 7},
+"8": {"_id": 8, "raw_value": "69", "raw_units": "(MPa)", "value": [69.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 8},
+"9": {"_id": 9, "raw_value": "60", "raw_units": "(MPa)", "value": [60.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 9},
+"10": {"_id": 10, "raw_value": "48", "raw_units": "(MPa)", "value": [48.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 10},
+"11": {"_id": 11, "raw_value": "30", "raw_units": "(MPa)", "value": [30.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 11},
+"12": {"_id": 12, "raw_value": "293", "raw_units": "(MPa)", "value": [293.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 12},
+"13": {"_id": 13, "raw_value": "257", "raw_units": "(MPa)", "value": [257.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 13},
+"14": {"_id": 14, "raw_value": "195", "raw_units": "(MPa)", "value": [195.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Yield strength", "compound": 14}
+}

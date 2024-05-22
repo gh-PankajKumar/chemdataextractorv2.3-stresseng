@@ -1,0 +1,4 @@
+{
+"1": {"_id": 1, "raw_value": "206", "raw_units": "GPa", "value": [206.0], "units": "(10^9.0) * Pascal^(1.0)", "specifier": "E", "compound": 3},
+"2": {"_id": 2, "raw_value": "124", "raw_units": "GPa", "value": [124.0], "units": "(10^9.0) * Pascal^(1.0)", "specifier": "E", "compound": 4}
+}

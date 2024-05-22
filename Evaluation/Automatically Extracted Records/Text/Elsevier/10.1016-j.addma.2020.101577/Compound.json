@@ -1,0 +1,9 @@
+{
+"1": {"_id": 1, "names": ["%"], "labels": ["66"], "roles": null},
+"2": {"_id": 2, "names": ["Cp-Ti"], "labels": null, "roles": null},
+"3": {"_id": 3, "names": ["titanium"], "labels": null, "roles": null},
+"4": {"_id": 4, "names": ["LPBF"], "labels": null, "roles": null},
+"5": {"_id": 5, "names": ["titanium"], "labels": null, "roles": null},
+"6": {"_id": 6, "names": ["LPBF"], "labels": null, "roles": null},
+"7": {"_id": 7, "names": ["Mo2C"], "labels": null, "roles": null}
+}

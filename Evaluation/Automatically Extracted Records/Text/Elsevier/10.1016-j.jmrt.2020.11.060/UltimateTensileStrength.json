@@ -1,0 +1,5 @@
+{
+"1": {"_id": 1, "raw_value": "258", "raw_units": "MPa", "value": [258.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "tensile strength", "compound": 1},
+"2": {"_id": 2, "raw_value": "278", "raw_units": "MPa", "value": [278.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "tensile strength", "compound": 2},
+"3": {"_id": 3, "raw_value": "500", "raw_units": "MPa", "value": [500.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "UTS", "compound": 3}
+}

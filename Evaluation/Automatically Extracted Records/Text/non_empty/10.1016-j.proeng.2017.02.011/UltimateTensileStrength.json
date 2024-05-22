@@ -1,0 +1,6 @@
+{
+"1": {"_id": 1, "raw_value": "15", "raw_units": "MPa", "value": [15.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "Tensile Strength", "compound": 1},
+"2": {"_id": 2, "raw_value": "400", "raw_units": "MPa", "value": [400.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "ultimate tensile strength", "compound": 2},
+"3": {"_id": 3, "raw_value": "830", "raw_units": "MPa", "value": [830.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "ultimate tensile strength", "compound": 3},
+"4": {"_id": 4, "raw_value": "340", "raw_units": "MPa", "value": [340.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "tensile strength", "compound": 4}
+}

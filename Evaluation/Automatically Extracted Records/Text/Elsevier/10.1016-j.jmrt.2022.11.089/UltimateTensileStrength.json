@@ -1,0 +1,3 @@
+{
+"1": {"_id": 1, "raw_value": "3.81", "raw_units": "MPa", "value": [3.81], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "tensile strengths", "compound": 1}
+}

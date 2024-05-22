@@ -1,0 +1,4 @@
+{
+"1": {"_id": 1, "raw_value": "2.5", "raw_units": "%", "value": [2.5], "units": "Percent^(1.0)", "specifier": "ductility", "compound": 2},
+"2": {"_id": 2, "raw_value": "79", "raw_units": "%", "value": [79.0], "units": "Percent^(1.0)", "specifier": "ductility", "compound": 1}
+}

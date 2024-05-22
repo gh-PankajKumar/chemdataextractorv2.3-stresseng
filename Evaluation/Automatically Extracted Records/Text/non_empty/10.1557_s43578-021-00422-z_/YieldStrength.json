@@ -1,0 +1,10 @@
+{
+"1": {"_id": 1, "raw_value": "1103", "raw_units": "MPa", "value": [1103.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "yield strength", "compound": 3},
+"2": {"_id": 2, "raw_value": "469 \u00b1 42", "raw_units": "MPa", "value": [469.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 42.0, "specifier": "\u03c3YS", "compound": 4},
+"3": {"_id": 3, "raw_value": "495 \u00b1 11", "raw_units": "MPa", "value": [495.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 11.0, "specifier": "\u03c3YS", "compound": 5},
+"4": {"_id": 4, "raw_value": "430 \u00b1 38", "raw_units": "MPa", "value": [430.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 38.0, "specifier": "\u03c3YS", "compound": 6},
+"5": {"_id": 5, "raw_value": "495", "raw_units": "MPa", "value": [495.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "\u03c3YS", "compound": 7},
+"6": {"_id": 6, "raw_value": "430", "raw_units": "MPa", "value": [430.0], "units": "(10^6.0) * Pascal^(1.0)", "specifier": "\u03c3YS", "compound": 8},
+"7": {"_id": 7, "raw_value": "430 \u00b1 38", "raw_units": "MPa", "value": [430.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 38.0, "specifier": "yield strength", "compound": 9},
+"8": {"_id": 8, "raw_value": "495 \u00b1 11", "raw_units": "MPa", "value": [495.0], "units": "(10^6.0) * Pascal^(1.0)", "error": 11.0, "specifier": "yield strength", "compound": 10}
+}
