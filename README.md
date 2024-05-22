@@ -19,15 +19,9 @@ This directory contains the code and results for the paper: "A Database of Stres
     |_ Contains `extractor.py` which extracts data from documents and manages storage in a cdedatabase
     |_ `extract_stresseng.py` is an example implementation to use the extractor code for mechanical properties
 |
-|_ Extraction Output 
-    |_ Unprocessed extraction output from extraction directly from Cooley
-|
 |_ Postprocessing
     |_ Postprocessing code converting from CDEDatabase to CSV and Json
     |_ Includes getting metadata from DOIs
-|    
-|_ Processed Records
-    |_ Postprocessed Records in CSV and Json formats
 |
 |_ Scrapers
     |_ Webscrapers for Elsevier and Springer Nature
