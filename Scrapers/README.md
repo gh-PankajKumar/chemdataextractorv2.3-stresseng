@@ -10,7 +10,7 @@ Search both Elsevier (ScienceDirect) and Springer for articles based on customiz
 
 ```Bash
 
-pip install requests beautifulsoup4 pyparsing
+pip install requests beautifulsoup4
 ```
 
 ## Usage
