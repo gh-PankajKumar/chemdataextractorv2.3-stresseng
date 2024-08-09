@@ -1,6 +1,6 @@
 from extractor import CDEDatabaseExtractor
 from allennlp.data.token_indexers import PretrainedBertIndexer
-from chemdataextractor.models.stresseng_models import (
+from stresseng_models import (
     YieldStrength, UltimateTensileStrength, FractureStrength, Ductility, YoungsModulus,
     TableYieldStrength, TableUltimateTensileStrength, TableFractureStrength, TableDuctility, TableYoungsModulus
 )
