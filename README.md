@@ -7,9 +7,8 @@ This directory contains the code and results for the paper: "A Database of Stres
 |_cdedatabase
     |_ Package for CDEDatabase structure developed by Taketomo Isazawa (ti250) (used for extraction only)
 |
-|_ chemdataextractor2-2.3.2-stresseng
-    |_ Latest release of ChemDataExtractor
-    |_ Modifications from ChemDataExtractorStressEng have been integrated and can be found specfically in `model/stresseng_models.py`
+|_ chemdataextractor2-2.3.2
+    |_ Static version of ChemDataExtractor used in this study
 |    
 |_ Evaluation
     |_ Automatically extracted evaluation records in CDEDatabase format
@@ -18,6 +17,7 @@ This directory contains the code and results for the paper: "A Database of Stres
 |_ Extraction
     |_ Contains `extractor.py` which extracts data from documents and manages storage in a cdedatabase
     |_ `extract_stresseng.py` is an example implementation to use the extractor code for mechanical properties
+    |_ Modifications from ChemDataExtractorStressEng have been consolidated and can be found specfically in `stresseng_models.py`
 |
 |_ Postprocessing
     |_ Postprocessing code converting from CDEDatabase to CSV and Json
