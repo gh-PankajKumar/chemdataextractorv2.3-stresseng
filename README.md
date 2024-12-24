@@ -1,6 +1,6 @@
 # A Database of Stress-Strain Properties Auto-generated from the Scientific Literature using ChemDataExtractor
 
-This directory contains the code and results for the paper: "A Database of Stress-Strain Properties Auto-generated from the Scientific Literature using ChemDataExtractor" (https://www.nature.com/articles/s41597-024-03979-6)[(Paper)]. The structure of this directory is given below
+This directory contains the code and results for the paper: "A Database of Stress-Strain Properties Auto-generated from the Scientific Literature using ChemDataExtractor" [(Paper)](https://www.nature.com/articles/s41597-024-03979-6). The structure of this directory is given below
 
 
 
